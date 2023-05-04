@@ -1,0 +1,121 @@
+// for the gibe json iterate for all loops(for,for in,for of,for each).//
+
+//1. for loops//
+
+let a =[10,20,30,60,]
+console.log(sum(a))
+function sum(a)
+{
+    let sum =0;
+    for(i=0;i<=array.length;i++)
+    return sum;
+}
+ 
+ //2.for of loop//
+
+let a =[10,20,30,60,]
+console.log(sum(a))
+function sum(a)
+{
+    let sum =0;
+    for (i of a)
+    sum =sum+{
+        return sum;
+    }
+}
+
+//3.for in//
+
+let a =[10,20,30,60,]
+console.log(sum(a))
+function sum(a)
+{
+    let sum =0;
+    for (i in a)
+    sum = sum+{
+        return sum;
+    }
+}
+
+//4.for each loop//
+
+let a =[10,20,30,60,]
+console.log(sum(a))
+function sum(a)
+{
+    let sum =0;
+    foreach(functionsum(e))
+    console.log(e)
+}
+
+
+
+// resume in json format//
+
+ "Resume":
+ {
+    "Name": "A.VAllathaan",
+    "Age": "25",
+    "email":"vallathanadhi@gmal.com",
+    "phone number":"8072776924",
+    "address": ganapathychettikulam",
+    "city":"puducherry",
+    "country":"india",
+ }
+ "education":[{
+    "course":"b.tech",
+    "stream":"mechanical engineering",
+    "institution":"sri manakula vinayger engineering college",
+    "cgpa":"7.6",
+    "batch":"2019",
+    "city":"puducherry",
+
+    "course":"higher secondary school",
+    "grade":"12",
+    "institution":"amalorpavam higher secondary school",
+    "percentage":"82",
+    "batch":"2015",
+    "city":"puducherry",
+
+    "course":"sslc",
+    "grade":"10",
+    "instituion":"amalorpavam higher secondary school",
+    "percentage":"96",
+    "batch":"2013",
+    "city":"puducherry",
+ }]
+
+" work exprience":[{
+    "post":"production and quality executive",
+    "exprience":"4",
+    "company":"annam fishing nets manufactures and filaments",
+
+ }]
+
+"projects":[{
+    "project title":" fabrication of air purifier using audrino chip",
+
+}]
+"skills":[{
+   "name":"programing language",
+   "keywords":[ 
+    "c"
+    "c++"
+    "python"
+    "javascript"
+    'html"
+    "css"
+    "mongo db"
+  ]
+}]
+"area of interest":[{
+    web page development
+
+}]
+"hobbies":[{
+    "upgrading of skill and learning new courses like artificial intelligence and machine learning and block chain in web development",
+
+}]
+"language":[{
+    "known language":"fluency in english and hindi ",
+}]
